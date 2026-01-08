@@ -8,3 +8,4 @@ test/
 *.obj
 *.stl
 *.ply
+data/models/
