@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<robot name="obj.urdf">
+  <link name="baseLink">
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <mesh filename="2458e2de871023a5823708c0b62ca422.obj" />
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <mesh filename="2458e2de871023a5823708c0b62ca422.obj" />
+      </geometry>
+    </collision>
+  </link>
+</robot>
